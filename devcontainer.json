@@ -1,0 +1,7 @@
+{
+  "name": "Java & MySQL Dev Container",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "java",
+  "workspaceFolder": "/workspace",
+  "shutdownAction": "stopCompose"
+}
